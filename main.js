@@ -757,6 +757,7 @@ async function getConfig() {
             getAllSensors();
             getAllGroups();
             getDevices();
+            getAutoUpdates();
 
         }  
     });
